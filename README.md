@@ -1,5 +1,5 @@
 # LNDProgressBar
-又一个进度条
+又一个进度条 Swift版
 
 ![image](https://github.com/Andyjicw/pictures/blob/master/LNDProgressBarDemo.png)
 
